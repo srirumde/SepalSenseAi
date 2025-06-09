@@ -7,8 +7,7 @@ SepalSense AI is a sleek, production-ready **Iris Flower Classification App** bu
 ## 🚀 Model Metrics 
 
 > 📊  
-> ![image](https://github.com/user-attachments/assets/iris-metrics-plot1)  
-> ![image](https://github.com/user-attachments/assets/iris-metrics-plot2)  
+> ![image](https://github.com/user-attachments/artifacts/models/connfusion_matrix.png)  
 
 ---
 
